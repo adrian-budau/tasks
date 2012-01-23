@@ -3,4 +3,4 @@
 Tasks are splitted by contest and round(if applicable)
 
 === Folders ===
-* Facebook Hackercup
+* Facebook Hackercup &rarr; hackercup
